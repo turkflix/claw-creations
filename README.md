@@ -1,25 +1,44 @@
-# 🐍 Snake Game
+# 🎮 Classic Games Collection
 
-A classic Snake game created with Gemini AI - fully playable in your browser!
+Two classic arcade games created with Gemini AI - fully playable in your browser!
 
 ## Play Now!
 
-**[🎮 Play the Game Here!](https://turkflix.github.io/snake-game/)**
+**[🐍 Play Snake Game!](https://htmlpreview.github.io/?https://github.com/turkflix/snake-game/blob/master/index.html)**
+
+**[🟦 Play Tetris Game!](https://htmlpreview.github.io/?https://github.com/turkflix/snake-game/blob/master/tetris/index.html)**
 
 ## How to Play
 
+### 🐍 Snake Game
 - Use arrow keys (or WASD) to control the snake
 - Eat the red food to grow and increase your score
 - Avoid hitting the walls or your own tail
 - On mobile: use the on-screen arrow buttons
 
+### 🟦 Tetris Game  
+- Use arrow keys to move pieces left/right/down
+- Up arrow or Space to rotate pieces
+- Complete horizontal lines to clear them and score points
+- Game speeds up as you progress
+- Don't let pieces reach the top!
+
 ## Features
 
+### Snake Game
 - Classic Snake gameplay
 - Mobile-friendly touch controls
 - Responsive design
 - Score tracking
 - Game over detection with restart
+
+### Tetris Game
+- Advanced neon visual effects
+- Multiple tetromino pieces
+- Line clearing mechanics
+- Progressive difficulty
+- Score and level tracking
+- Neon glow effects and animations
 
 ## Created With
 
